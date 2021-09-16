@@ -23,3 +23,5 @@ It is available from `Menu Bar > Finder > Services` as well.
 More info about `cwep` tool available on: [official website](https://developers.google.com/speed/webp/docs/cwebp).
 
 The ConvertToWebP is a very simple tool. If you want you can change parameters for executing command by editing .workflow file.
+
+🇵🇱 There is more detailed article about usage and comparison available at [macuser.info](https://macuser.info/webp-czyli-optymalizacja-zdjec/) (in polish language 🇵🇱)
