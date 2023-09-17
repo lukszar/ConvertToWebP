@@ -61,7 +61,7 @@
 					<key>COMMAND_STRING</key>
 					<string>for f in "$@"
 do
-/usr/local/bin/cwebp -q 50 -lossless $f -o "${f%.*}.webp"
+/opt/homebrew/bin/cwebp -q 50 -lossless $f -o "${f%.*}.webp"
 done
 </string>
 					<key>CheckedForUserDefaultShell</key>
